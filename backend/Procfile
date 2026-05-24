@@ -1,0 +1,1 @@
+web: . .venv/bin/activate && bash start.sh
